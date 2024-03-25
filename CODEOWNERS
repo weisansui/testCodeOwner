@@ -1,2 +1,3 @@
 *.txt @octo-org/octocats
 *.md @octo-org/octocats
+test/ @octo-org/octocats
