@@ -1,2 +1,3 @@
-*.txt @octo-org/octocats
-*.md @octo-org/octocats
+*.txt @weisansui
+*.md @weisansui
+test/ @weisansui
